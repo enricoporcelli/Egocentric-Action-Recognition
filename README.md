@@ -27,4 +27,4 @@ We replicated the results of the original TA3N paper and we implemented the same
 | Paper | Title | GitHub Repository |
 | ----- | ----- | --------------------- |
 | [1907.12743](https://arxiv.org/abs/1907.12743) | Temporal Attentive Alignment for Large-Scale Video Domain Adaptation | [TA3N Repository](https://github.com/jonmun/EPIC-KITCHENS-100_UDA_TA3N) |
-| [1811.07456](https://arxiv.org/pdf/1811.07456.pdf) | LSTA: Long Short-Term Attention for Egocentric Action Recognition | [AFN Repository](https://github.com/jihanyang/AFN) |
+| [1811.07456](https://arxiv.org/pdf/1811.07456.pdf) | Larger Norm More Transferable: An Adaptive Feature Norm Approach for Unsupervised Domain Adaptation. | [AFN Repository](https://github.com/jihanyang/AFN) |
