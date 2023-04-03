@@ -2,9 +2,9 @@
 # Domain Adaptation for Egocentric-Action-Recognition
 
 ## Introduction
-This is the repository for the Machine Learning and Deep learning project at PoliTO. that aims at assessing the performance of applying the TA3N architecture into an Adapting Feature Norm (AFN) framework. Moreover, an ablation study on the components of TA3N is performed to understand the effectiveness of the domain alignment solutions adopted in this deep learning model. This project is the result of a collaboration with https://github.com/Terdis and https://github.com/MatteoBerta.
+This is the repository for the Machine Learning and Deep learning project at PoliTo, which is the result of a collaboration with [Umberto Fontana](https://github.com/Terdis) and [Matteo Berta](https://github.com/MatteoBerta).
 
-![TA3N_architecture](https://user-images.githubusercontent.com/104196258/229546440-10a86381-6961-4af8-8386-0166031ff323.png)
+![TA3N_architecture](https://user-images.githubusercontent.com/104196258/229546440-10a86381-6961-4af8-8386-0166031ff323.png | width=700)
 
 
 ## Aim of the project
