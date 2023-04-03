@@ -4,7 +4,8 @@
 ## Introduction
 This is the repository for the Machine Learning and Deep learning project at PoliTo, which is the result of a collaboration with [Umberto Fontana](https://github.com/Terdis) and [Matteo Berta](https://github.com/MatteoBerta).
 
-![TA3N_architecture](https://user-images.githubusercontent.com/104196258/229546440-10a86381-6961-4af8-8386-0166031ff323.png = 250x700)
+<img src="https://user-images.githubusercontent.com/104196258/229546440-10a86381-6961-4af8-8386-0166031ff323.png" width="700">
+
 
 
 ## Aim of the project
