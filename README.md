@@ -12,7 +12,6 @@ Egocentric ASction Recognition is the task of classifying actions performed in f
 In this project we worked with the EPIC kitchens dataset which is composed of recordings of culinary activities and in which the actions to be recognized are composed of a verb and a noun. Common examples of these activities are "cut onion", "wash dishes" or "close fridge".
 
 
-
 ## TA3N architecture
 The architecture on which the project is built is TA3N, which stands for Temporal Attentive Adversarial Adapatation Network. It is a quite complex architecture built upon three main components: 
 1. Baseline: composed of a pretrained ResNet and a Temporal Module. The ResNet is used to collect the features from the video's frames, the Temporal Module serves the purpose of finding correlations between different frames (useful to distinguish betweeen similar actions such as "open fridge" and "close fridge").
@@ -22,3 +21,10 @@ The architecture on which the project is built is TA3N, which stands for Tempora
 ## Our Improvement
 We replicated the results of the original TA3N paper and we implemented the same architecture into an Adaptive Feature Norm (AFN) framework. As shown in 
 [this paper](https://arxiv.org/pdf/1811.07456.pdf), features' norms may significantly affect the model's ability to perform action classification. With AFN, the extracted features lie in a space in which the actions they represent are easier to separate. 
+
+## Original Papers
+
+| Paper | Title | GitHub Repository |
+| ----- | ----- | --------------------- |
+| [1907.12743](https://arxiv.org/abs/1907.12743) | Temporal Attentive Alignment for Large-Scale Video Domain Adaptation | [TA3N Repository](https://github.com/jonmun/EPIC-KITCHENS-100_UDA_TA3N) |
+| [1811.07456](https://arxiv.org/pdf/1811.07456.pdf) | LSTA: Long Short-Term Attention for Egocentric Action Recognition | [AFN Repository](https://github.com/jihanyang/AFN) |
