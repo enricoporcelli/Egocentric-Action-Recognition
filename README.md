@@ -2,7 +2,7 @@
 # Domain Adaptation for Egocentric-Action-Recognition
 
 ## Introduction
-This is the repository for the Machine Learning and Deep learning project at PoliTo, which is the result of a collaboration with [Umberto Fontana](https://github.com/Terdis) and [Matteo Berta](https://github.com/MatteoBerta). The following sections form a summary of the project, take alook at report directory for a more detailed description of every step.
+This is the repository for the Machine Learning and Deep learning project at PoliTo, which is the result of a collaboration with [Umberto Fontana](https://github.com/Terdis) and [Matteo Berta](https://github.com/MatteoBerta). The following sections form a summary of the project, take a look at the report directory for a more detailed description of every step.
 
 <p align="center"><img src="https://user-images.githubusercontent.com/104196258/229546440-10a86381-6961-4af8-8386-0166031ff323.png" width="700">
 
