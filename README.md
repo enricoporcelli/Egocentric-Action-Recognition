@@ -7,7 +7,7 @@ This is the repository for the Machine Learning and Deep learning project at Pol
 <p align="center"><img src="https://user-images.githubusercontent.com/104196258/229546440-10a86381-6961-4af8-8386-0166031ff323.png" width="700">
 
 
-
+ 
 ## Aim of the project
 Egocentric ASction Recognition is the task of classifying actions performed in first person videos. The goal of this project is to perform domain adaptation for this task and, in particular, to assess the performance of the TA3N and improve its performance.
 In this project we worked with the [EPIC-KITCHENS-100](https://epic-kitchens.github.io/2023) dataset which is composed of recordings of culinary activities and in which the actions to be recognized are composed of a verb and a noun. Common examples of these activities are "cut onion", "wash dishes" or "close fridge". The dataset is subdivided in three domains which are represented by videos recorded in three different kitchens
